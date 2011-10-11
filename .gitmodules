@@ -149,3 +149,6 @@
 [submodule "bundle/php-indenting"]
 	path = bundle/php-indenting
 	url = git://github.com/2072/PHP-Indenting-for-VIm.git
+[submodule "bundle/neocomplcache"]
+	path = bundle/neocomplcache
+	url = git://github.com/Shougo/neocomplcache.git
